@@ -1,0 +1,25 @@
+{
+  "name": "comparacio_eips",
+  "version": "1.0.0",
+  "description": "[DOCU DE MARKDOWN](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) ## ADREÇES D'INTERES ROPSTEN NETWORK ``` SMARTCONTRACT: 0xDa5E6B7f172847d63676aA6aC51e108a06c2044D ADRI 1: 0xDeCD84708c75258F8D491A324077fFd846C1884c ADRI 2: 0x1f58f419c0108bcaA78457E6a190AcF984E6bC3b VICTOR 1: 0xc6246ACA6BA8991BFb810Ae064Fe2725fD1a4664 VICTOR 2: 0xc6246ACA6BA8991BFb810Ae064Fe2725fD1a4664 ```",
+  "main": "initialize.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-barbera/comparacio_EIPs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victor-barbera/comparacio_EIPs/issues"
+  },
+  "homepage": "https://github.com/victor-barbera/comparacio_EIPs#readme",
+  "dependencies": {
+    "web3": "^1.6.1"
+  }
+}
